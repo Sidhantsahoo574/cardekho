@@ -40,7 +40,7 @@ public class Cardekho {
 			check.get(i).click();
 		}
 		
-		
+		//thank you
 
 	}
 
