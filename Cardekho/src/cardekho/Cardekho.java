@@ -17,7 +17,7 @@ import org.seleniumhq.jetty9.server.HttpChannelState.Action;
 public class Cardekho {
 
 	public static void main(String[] args) throws InterruptedException {
-		
+		//welcome
 		ChromeOptions option=new ChromeOptions();
 		Thread.sleep(1000);
 		option.addArguments("--disable-notifications");
